@@ -1,5 +1,5 @@
 # Crie uma lista apenas com elementos numéricos
-lista = [1, 2377.90, 1,78, 1989-4-19, 365, 7.90]
+lista = [1, 2377.90, 1,78, 1989, 365, 7.90]
 print(lista)
 
 # Crie uma lista contendo todos os tipos e estrutura de dados que você aprendeu até agora
