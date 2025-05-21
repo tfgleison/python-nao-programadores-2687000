@@ -8,7 +8,7 @@ print(lista_numerica)
 # 2. Crie um for loop para percorrer todos os elementos da lista
 indice = 0
 for numero in lista_numerica:
-  if numero % 3 == 0: and numero % 5 == 0:
+  if numero % 3 == 0 and numero % 5 == 0:
     lista_numerica[indice] = 'FizzBuzz'
   elif numero % 3 == 0:
     lista_numerica[indice] = 'Fizz'  
